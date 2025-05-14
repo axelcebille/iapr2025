@@ -407,3 +407,5 @@ ctranspath.py
 data/data_lab_03/part_02/dhmc*
 convert.py 
 data/project/
+
+project/images/*
