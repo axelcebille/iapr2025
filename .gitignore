@@ -409,3 +409,4 @@ convert.py
 data/project/
 
 project/images/*
+project/models/*
